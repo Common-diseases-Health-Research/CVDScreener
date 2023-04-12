@@ -6,5 +6,5 @@
 
 # Progress update:
 Goals: (***Holidays 2023***)
-- Create automated reader for learing
+- Create automated reader for model learning
 - Design scable architecture
