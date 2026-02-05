@@ -1,1 +1,1 @@
-Learn with me to design your own ANN model using Tensorflow
+Learn to design ANN model for Cadiovascular Diseases (CVDs) incidence rate in Tensorflow
